@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: summarize
+Version: 0.0.1
+Summary: demo python CLI tool to summarize text using HuggingFace
+Home-page: https://github.com/yelyzavetahusieva/website-summarizer
+Author: Yelyzaveta Husieva
